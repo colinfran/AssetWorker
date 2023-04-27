@@ -1,0 +1,7 @@
+**/node_modules
+.DS_Store
+build/
+public/env/env.json
+releases/
+tasks/license/Certificates.p12
+public/env/env.example.json

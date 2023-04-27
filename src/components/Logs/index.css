@@ -1,0 +1,22 @@
+.logsContainer{
+  border-top: 3px black solid;
+  overflow: scroll;
+  height: 175px;
+  padding: 15px;
+}
+
+.logsWrapper{
+  text-align: left;
+  padding: 15px;
+  overflow-wrap: anywhere;
+  font-size: 10px;
+}
+
+.logLine{
+  border-top: black 1px dotted;
+  padding-top: 5px;
+}
+
+.individualLog{
+  padding-bottom: 5px;
+}

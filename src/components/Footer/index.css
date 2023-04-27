@@ -1,0 +1,14 @@
+.footerContainer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgrey;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+}
+
+.dark .footerContainer{
+  color: #595959;
+}

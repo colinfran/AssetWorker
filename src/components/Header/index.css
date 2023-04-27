@@ -1,0 +1,55 @@
+.headerContainer{
+  background: lightgrey;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.settingsButton{
+  display: flex;
+  align-self: center;
+  align-content: center;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.settingsContainer{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.settingsIconContainer{
+  margin-right: 6px;
+  display: flex;
+}
+
+.logo{
+  height: 45px;
+}
+
+.mountedContainer{
+  display: flex;
+  align-items: center;
+}
+
+.offline{
+  color: red;
+  border: 1px solid red;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.connected{
+  color: green;
+  border: 1px solid green;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.errorLinkMessage{
+  font-size: 12px;
+  padding: 12px;
+}

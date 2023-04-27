@@ -1,0 +1,12 @@
+.mcmContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  padding: 20px;
+  padding-top: 0;
+}
+
+.mcmBtnContainer{
+  padding-top: 10px;
+}

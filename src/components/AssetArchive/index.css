@@ -1,0 +1,102 @@
+.aaContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.openInDefaultEditorRow{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.openInDefaultText{
+  text-align: left;
+  padding-top: 10px;
+}
+
+.openInDefaultEditorRow > div {
+  margin-right: 20px;
+}
+
+.openOrCopyInput{
+  margin-right: 10px;
+  width: 60% !important;
+}
+
+.brandSelectFrom{
+  width: 40% !important;
+}
+
+.openOrCopyContainer{
+  display: flex;
+  flex-direction: row;
+}
+
+.copyToContainer{
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.formsContainer{
+  width: 100%;
+  padding-top: 20px;
+}
+
+.openBtn{
+  width: 100%;
+  margin-right: 10px;
+}
+
+.copyBtn{
+  width: 100%;
+}
+
+.openCopyContainer{
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+}
+
+.openBtnIconRow{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.openBtnIcon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.copyBtnIconRow{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.copyBtnIcon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.formHeight{
+  height: 100%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.headerText{
+  display: flex;
+  align-self: center;
+  padding-bottom: 10px;
+  font-weight: 700;
+  justify-content: center;
+}
